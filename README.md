@@ -5,6 +5,7 @@ implemented by MiniMax with alpha-beta pruning.
 
 by Yuqing Zhang 20911078
 
+Youtube：https://www.youtube.com/watch?v=4cTb3-o3UlY&t=7s
 
 The python files example.py and pisqpipe.py are the templated downloaded from https://github.com/stranskyjan/pbrain-pyrandom. 
 
